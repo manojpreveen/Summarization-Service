@@ -1,6 +1,6 @@
 ### Models :
 
-Change the model path accordingly at https://github.com/manojpreveen/Summarization-Service/blob/master/app/main.py#L14
+Change the model path accordingly at https://github.com/manojpreveen/Summarization-Service/blob/master/app/main.py#L16
 
 ```
 Paths :
